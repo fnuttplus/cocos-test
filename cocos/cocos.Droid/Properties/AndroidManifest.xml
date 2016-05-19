@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="bananas.bananas" android:installLocation="auto">
+	<uses-sdk />
+	<application android:label="Gone Bananas" android:icon="@drawable/icon"></application>
+</manifest>

@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: Cocos Settings
+file_extensions:
+  - ccs
+scope: text.cocos
+contexts:
+  main: []
